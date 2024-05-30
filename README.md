@@ -14,7 +14,7 @@ Optimizer는 Adam을 사용하였고, 총 parameter의 수는 44,493으로 도�
 
 ## Structure
 
-D:.
+        D:.
 |   create_dataset.py
 |   test.py
 |   train.ipynb
@@ -49,6 +49,7 @@ D:.
         seq_see_1716781785.npy
         seq_smile_1716781785.npy
         seq_what_1716781785.npy
+
 
 
         
