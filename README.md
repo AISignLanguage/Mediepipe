@@ -7,7 +7,7 @@ https://ai.google.dev/edge/mediapipe/solutions/guide?hl=ko
 
 ## Model
 
-우리는 30초씩 webcam과 Opencv를 이용하여, 총 13개의 데이터셋을 직접 수집하여 총 13개의 sequence 파일을 생성하였다.
+CPU 환경에서 Visual Studio Code에서 30초씩 webcam과 Opencv를 이용하여, 총 13개의 데이터셋을 직접 수집하였고 총 13개의 sequence 파일을 생성하였다.
 총 3개의 layer로 model을 training하였고, layer는 LSTM, Dense layer를 사용하였다.
 Optimizer는 Adam을 사용하였고, 총 parameter의 수는 44,493으로 도출되었다. epoch는 200번으로 시행하였다.
 최종 validation loss는 약 0.0164, validation accuracy는 1.0로 우수한 성능의 모델이 도출되었다.
