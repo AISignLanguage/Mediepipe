@@ -15,40 +15,40 @@ Optimizer는 Adam을 사용하였고, 총 parameter의 수는 44,493으로 도�
 ## Structure
 
         D:.
-|   create_dataset.py
-|   test.py
-|   train.ipynb
-|
-+---models
-|       mp-13.h5
-|
-\---mog_dataset2
-        raw_best_1716781785.npy
-        raw_call_1716781785.npy
-        raw_fine_1716781785.npy
-        raw_happy_1716781785.npy
-        raw_heart_1716781785.npy
-        raw_hello_1716781785.npy
-        raw_iloveyou_1716781785.npy
-        raw_meet_1716781785.npy
-        raw_me_1716781785.npy
-        raw_peace_1716781785.npy
-        raw_see_1716781785.npy
-        raw_smile_1716781785.npy
-        raw_what_1716781785.npy
-        seq_best_1716781785.npy
-        seq_call_1716781785.npy
-        seq_fine_1716781785.npy
-        seq_happy_1716781785.npy
-        seq_heart_1716781785.npy
-        seq_hello_1716781785.npy
-        seq_iloveyou_1716781785.npy
-        seq_meet_1716781785.npy
-        seq_me_1716781785.npy
-        seq_peace_1716781785.npy
-        seq_see_1716781785.npy
-        seq_smile_1716781785.npy
-        seq_what_1716781785.npy
+        |   create_dataset.py
+        |   test.py
+        |   train.ipynb
+        |
+        +---models
+        |       mp-13.h5
+        |
+        \---mog_dataset2
+                raw_best_1716781785.npy
+                raw_call_1716781785.npy
+                raw_fine_1716781785.npy
+                raw_happy_1716781785.npy
+                raw_heart_1716781785.npy
+                raw_hello_1716781785.npy
+                raw_iloveyou_1716781785.npy
+                raw_meet_1716781785.npy
+                raw_me_1716781785.npy
+                raw_peace_1716781785.npy
+                raw_see_1716781785.npy
+                raw_smile_1716781785.npy
+                raw_what_1716781785.npy
+                seq_best_1716781785.npy
+                seq_call_1716781785.npy
+                seq_fine_1716781785.npy
+                seq_happy_1716781785.npy
+                seq_heart_1716781785.npy
+                seq_hello_1716781785.npy
+                seq_iloveyou_1716781785.npy
+                seq_meet_1716781785.npy
+                seq_me_1716781785.npy
+                seq_peace_1716781785.npy
+                seq_see_1716781785.npy
+                seq_smile_1716781785.npy
+                seq_what_1716781785.npy
 
 
 
